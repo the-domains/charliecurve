@@ -1,0 +1,14 @@
+layout_spectrum: 0.0050857525784522295
+typography_spectrum: 0.6942799123935401
+color:
+  brandStrength: 0.7778857378289104
+  lightness: 0.3278733096085489
+  saturation: 0.6307940080296248
+  rhythmicContrast: 0.10914862155914307
+  brandColors:
+    - '#FF8000'
+    - '#FFD933'
+    - '#CCCC52'
+    - '#8FB359'
+    - '#192B33'
+name: CharlieCurve
