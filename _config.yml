@@ -6,9 +6,13 @@ color:
   saturation: 0.6307940080296248
   rhythmicContrast: 0.10914862155914307
   brandColors:
-    - '#FF8000'
-    - '#FFD933'
-    - '#CCCC52'
-    - '#8FB359'
-    - '#192B33'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: CharlieCurve
+navigation:
+  - name: About
+    url: charliecurve.com
+    type: external
